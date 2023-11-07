@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Mabrur dari Batam
+
+Resolusi saya :
+- membuat website dengan framework Python
+- saya ingin menjadi web developer
